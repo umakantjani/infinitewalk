@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Infinite Walk</title>
+    <link>https://infinitewalk.com/categories/</link>
+    <description>Recent content in Categories on Infinite Walk</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 12 Jun 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://infinitewalk.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Articles</title>
+      <link>https://infinitewalk.com/categories/articles/</link>
+      <pubDate>Tue, 12 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://infinitewalk.com/categories/articles/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Confidence</title>
+      <link>https://infinitewalk.com/categories/confidence/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://infinitewalk.com/categories/confidence/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Entrepreneurship</title>
+      <link>https://infinitewalk.com/categories/entrepreneurship/</link>
+      <pubDate>Sat, 10 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://infinitewalk.com/categories/entrepreneurship/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Life</title>
+      <link>https://infinitewalk.com/categories/life/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://infinitewalk.com/categories/life/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Meeting</title>
+      <link>https://infinitewalk.com/categories/meeting/</link>
+      <pubDate>Tue, 04 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://infinitewalk.com/categories/meeting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Personal</title>
+      <link>https://infinitewalk.com/categories/personal/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://infinitewalk.com/categories/personal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quotes</title>
+      <link>https://infinitewalk.com/categories/quotes/</link>
+      <pubDate>Tue, 12 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://infinitewalk.com/categories/quotes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Startup</title>
+      <link>https://infinitewalk.com/categories/startup/</link>
+      <pubDate>Sat, 10 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://infinitewalk.com/categories/startup/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Umakant</title>
+      <link>https://infinitewalk.com/categories/umakant/</link>
+      <pubDate>Tue, 12 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://infinitewalk.com/categories/umakant/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

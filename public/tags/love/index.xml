@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Love on Infinite Walk</title>
+    <link>https://infinitewalk.com/tags/love/</link>
+    <description>Recent content in Love on Infinite Walk</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://infinitewalk.com/tags/love/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Sing to Me</title>
+      <link>https://infinitewalk.com/poetry/sing-to-me/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://infinitewalk.com/poetry/sing-to-me/</guid>
+      <description>Love is all we got.
+Download this poem as image, text, or pdf.</description>
+    </item>
+    
+    <item>
+      <title>Hate Feeds The Hate</title>
+      <link>https://infinitewalk.com/poetry/hate-feeds-the-hate/</link>
+      <pubDate>Fri, 05 Aug 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://infinitewalk.com/poetry/hate-feeds-the-hate/</guid>
+      <description>This one spots to the division and non-symmetry we have in our society as this point. We need to remind ourselves that we are all one and we need to love each other. Have we forgotten the rules of our existence today?
+Download this poem as image, text, or pdf.</description>
+    </item>
+    
+  </channel>
+</rss>

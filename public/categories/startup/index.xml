@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Startup on Infinite Walk</title>
+    <link>https://infinitewalk.com/categories/startup/</link>
+    <description>Recent content in Startup on Infinite Walk</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 10 Jun 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://infinitewalk.com/categories/startup/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>20 Startup Quotes for Entrepreneurs</title>
+      <link>https://infinitewalk.com/posts/twenty-startup-quotes/</link>
+      <pubDate>Sat, 10 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://infinitewalk.com/posts/twenty-startup-quotes/</guid>
+      <description>No matter how positive you’re, there will be times when negativity will kick you down; in those situations I hope following 20 quotes helps you to standup again.
+ &amp;ldquo;God grant us the serenity to accept to things we cannot change, courage to change the things we can, and wisdom to know the difference.&amp;rdquo; —Reinhold Niebuhr
+&amp;ldquo;The greatest danger for most of us is not that our aim is too high and we miss it, but that it is too low and we reach it.</description>
+    </item>
+    
+    <item>
+      <title>Better Meetings</title>
+      <link>https://infinitewalk.com/posts/better-meetings/</link>
+      <pubDate>Tue, 04 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://infinitewalk.com/posts/better-meetings/</guid>
+      <description>&amp;ldquo;People who enjoy meetings should not be in charge of anything.&amp;rdquo; —Thomas Sowell
+ I hate meetings. I hate meetings as much as I hate religious people. Well, research from Harvard Business School &amp;amp; London school of Economics shows;
+Top executives spend upwards of 18 hours per week - third of their working week - in meetings. Estimated 25-50% of meeting time considered wasted Research shows the cost of Unnecessary meeting to Business in terms of wasted salary hours as $37 Billion.</description>
+    </item>
+    
+  </channel>
+</rss>
